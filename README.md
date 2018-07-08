@@ -1,2 +1,0 @@
-# yassin
-yassin bot
